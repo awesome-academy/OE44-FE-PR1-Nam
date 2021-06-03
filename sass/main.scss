@@ -1,7 +1,6 @@
 @import 'base/reset';
+@import "./utilities/mixins";
 
 @import 'layout/header';
 @import 'layout/footer';
-h2{
-    color: red;
-}
+@import 'components/slider'
